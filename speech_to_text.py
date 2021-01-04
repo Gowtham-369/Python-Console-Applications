@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  1 18:28:03 2020
-
-@author: rishi
-"""
 import speech_recognition as sr
 AUDIO_FILE = ("Manyampuli.wav")
 #use AUDIO_FILE as source
