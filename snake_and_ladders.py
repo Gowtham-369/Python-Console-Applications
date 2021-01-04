@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  6 12:45:24 2020
-
-@author: rishi
-"""
 import random
 from PIL import Image
 end = 100
